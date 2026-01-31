@@ -24,7 +24,6 @@ Dedicated QA professional with over 6 years of experience in Software Quality As
 
 ### 📫 Connect with me:
 * **LinkedIn:** https://www.linkedin.com/in/gutenberg-soares-oliveira/
-* **Location:** Based in Spain 🇪🇸 | Moving to France 🇫🇷 (Alsace)
-
+  
 ---
 *"Quality is not an act, it is a habit."*
